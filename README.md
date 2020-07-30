@@ -14,6 +14,9 @@ This database is scrapable, and when my organization want to look at trends for 
 
 Once the data is clean, I can perform my analysis. On the surface, we're interested in the the total emissions of each contaminant category in various regions across Texas. We look at emissions for all of Texas, the Permian Basin, and the areas surrounding Houston and Port Arthur. We also try to identify big emitters in all these regions as well, as potential opportunities for enforcement.
 
+
+## The App
+
 This Dash App was a way to summarize and visualize the data we look at every year. My intention was to host the app on our website, so that communities could use it as a way to see what the pollution looks like in their area, but we are no longer going to publish the app. This is why it's a little rough around the edges: the app loads pretty slowly, the front end could be tightened up, new features were going to be added, and some of the analyses needed to be adjusted. Instead, we want to focus on more than just summary data, maybe looking at specific industry types or regions in TX that tell a more interesting story. If that's the case, I hope to create a different (better) app to showcase that data.
 
 For now, I'm going to leave this as it is. It was my first attempt at a Dash app and I'm pretty proud of it. If work slows down or I have more time in the future, maybe I'll come back to this and clean it up.
